@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bisg"]
-	path = bisg
-	url = https://github.com/rpvote/bisg
 [submodule "eiCompare"]
 	path = eiCompare
 	url = https://github.com/rpvote/eicompare
